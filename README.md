@@ -1,5 +1,5 @@
-                                                Stanislav Victorovich Sushkov
-                              Phone: 093 526-84-61 | magnatss@ukr.net | Telegram: @ch1madan
+                                                Stanislav Victorovich 
+                              Phone: 093 526-84-** | magnatss@ukr.net | Telegram: @ch1madan
                                                    SYSTEMS ADMINISTRATOR
 
 
