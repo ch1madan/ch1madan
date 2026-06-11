@@ -10,69 +10,69 @@ Experienced Systems Administrator with 10+ years of hands-on experience managing
                                       ____________ Core Competencies ____________
 
 Operating Systems:
-Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora
-Windows Server
-Linux From Scratch (LFS)
+Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora,
+Windows Server,
+Linux From Scratch (LFS);
 
 Infrastructure & Services:
-Nginx
-Apache HTTP Server
-DNS
-FTP
-SSH
-Mail Services (SMTP, POP3, IMAP)
-NFS
-VPN
-RAID
-LVM
+Nginx,
+Apache HTTP Server,
+DNS,
+FTP,
+SSH,
+Mail Services (SMTP, POP3, IMAP),
+NFS,
+VPN,
+RAID,
+LVM;
 
 AWS:
-EC2
-S3
-IAM
-VPC
+EC2.
+S3.
+IAM.
+VPC;
 
 Version Control & CI/CD:
-Git
-Gitgub Actions
+Git,
+Gitgub Actions;
 
 Virtualization & Containers:
-VMware
-KVM
-OpenVZ
-Oracle VirtualBox
-Docker
-Docker-compose
+VMware,
+KVM,
+OpenVZ,
+Oracle VirtualBox,
+Docker,
+Docker-compose;
 
 Monitoring & Observability:
-Zabbix
-Nagios
-Cacti
-Munin
-MRTG
-Monit
+Zabbix,
+Nagios,
+Cacti,
+Munin,
+MRTG,
+Monit;
 
 Automation & Scripting:
-Ansible
-Bash
-Python
+Ansible,
+Bash,
+Python;
 
 Databases:
-MySQL / MariaDB
-Basic SQL
+MySQL / MariaDB.
+Basic SQL;
 
 Networking:
-TCP/IP
-Routing and Switching Fundamentals
-DNS
-Firewall Configuration
-Network Troubleshooting
+TCP/IP,
+Routing and Switching Fundamentals,
+DNS,
+Firewall Configuration,
+Network Troubleshooting;
 
 Additional Skills:
-Server Migration
-Backup and Disaster Recovery
-Infrastructure Monitoring
-Security Hardening
-Remote Server Management (IPMI)
-Software Compilation from Source
-Incident Troubleshooting
+Server Migration,
+Backup and Disaster Recovery,
+Infrastructure Monitoring,
+Security Hardening,
+Remote Server Management (IPMI),
+Software Compilation from Source,
+Incident Troubleshooting.
