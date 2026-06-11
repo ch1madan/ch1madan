@@ -1,34 +1,78 @@
                                                 Stanislav Victorovich 
                               Phone: 093 526-84-** | magnatss@ukr.net | Telegram: @ch1madan
-                                                   SYSTEMS ADMINISTRATOR
+                                  Linux Systems Administrator / Cloud Operations Engineer
 
 
-Systems administrator with 8 years of experience managing server infrastructures across multiple platforms (Unix, Linux, Windows). 
-Effectively plan, install, configure and optimize the IT infrastructure to consistently achieve high availability and performance. Extensive knowledge of monitoring important, high loaded nodes and configuring software.
+Experienced Systems Administrator with 10+ years of hands-on experience managing Linux and Windows server infrastructures. Skilled in deployment, administration, monitoring, troubleshooting, and automation of production environments. Strong background in web hosting, virtualization, networking, backup solutions, and high-availability services. Currently expanding expertise in Cloud Technologies, Infrastructure as Code, Containers, and DevOps practices.
 
 
 
-                                      ____________ Highlights of IT Skills ____________
+                                      ____________ Core Competencies ____________
 
-Operational systems:
-Debian, Ubuntu, rpm-based (Fedora, CentOS), Solaris(initially);
-Experience in building own linux distros (linux from scratch);
-Windows: (9x, XP, Vista, 7, 8, Windows Server 2003, 2012).
+Operating Systems:
+Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora
+Windows Server
+Linux From Scratch (LFS)
 
-Friendly software:
-DNS, Apache, Nginx, FTP, MySQL, POP3, SMTP, SSH, DIG, WHOIS, NFS, PPTPD, VPN, IPTABLES, RAID, LVM. 
-Virtualization (Vmware, KVM, OVZ, Oracle VirtualBox)
-Mysql databases, installing and configuring. Some sql skills.
-Knowledge in networking, network devices & configuring it.
-Experience in installing, using & configuring monitoring systems (zabbix, nagios, cacti, munin, mrtg, monit...).
-Ansible, Docker, Docker Swarm.
-Remote server management (IPMI).
+Infrastructure & Services:
+Nginx
+Apache HTTP Server
+DNS
+FTP
+SSH
+Mail Services (SMTP, POP3, IMAP)
+NFS
+VPN
+RAID
+LVM
 
-Programming skills:
-html, css, php, bash, python.
+AWS:
+EC2
+S3
+IAM
+VPC
+
+Version Control & CI/CD:
+Git
+Gitgub Actions
+
+Virtualization & Containers:
+VMware
+KVM
+OpenVZ
+Oracle VirtualBox
+Docker
+Docker-compose
+
+Monitoring & Observability:
+Zabbix
+Nagios
+Cacti
+Munin
+MRTG
+Monit
+
+Automation & Scripting:
+Ansible
+Bash
+Python
+
+Databases:
+MySQL / MariaDB
+Basic SQL
 
 Networking:
-Fundamental knowledge in networking, understanding primary network protocols (IP, TCP, UDP). Experience with network equipment.
+TCP/IP
+Routing and Switching Fundamentals
+DNS
+Firewall Configuration
+Network Troubleshooting
 
-Experience in system installation, configuration, upgrading & managing. Building software from sources. Security solutions (firewall, antivirus, iptables). Plan backups & automating it. Monitor hosts.
-Maintaining maximum availability of supported services for users.
+Additional Skills:
+Server Migration
+Backup and Disaster Recovery
+Infrastructure Monitoring
+Security Hardening
+Remote Server Management (IPMI)
+Software Compilation from Source
+Incident Troubleshooting
