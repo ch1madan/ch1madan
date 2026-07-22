@@ -1,6 +1,6 @@
                                                 Stanislav Victorovich 
-                              Phone: 093 526-84-** | magnatss@ukr.net | Telegram: @ch1madan
-                                  Linux Systems Administrator / Cloud Operations Engineer
+                              Phone: +486982351** | stan@sushkov.online | Telegram: @ch1madan
+                                  Linux Infrastructure/Systems Engineer/Cloud Operations Engineer
 
 
 Experienced Systems Administrator with 10+ years of hands-on experience managing Linux and Windows server infrastructures. Skilled in deployment, administration, monitoring, troubleshooting, and automation of production environments. Strong background in web hosting, virtualization, networking, backup solutions, and high-availability services. Currently expanding expertise in Cloud Technologies, Infrastructure as Code, Containers, and DevOps practices.
@@ -10,8 +10,7 @@ Experienced Systems Administrator with 10+ years of hands-on experience managing
                                       ____________ Core Competencies ____________
 
 Operating Systems:
-Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora,
-Windows Server,
+Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora, Windows Server;
 Linux From Scratch (LFS);
 
 Infrastructure & Services:
