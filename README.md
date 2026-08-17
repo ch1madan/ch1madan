@@ -1,4 +1,4 @@
-<img width="1788" height="687" alt="image" src="https://github.com/user-attachments/assets/34b28a5f-4ef3-49a3-a11a-bdecced571da" />
+
 
 Stanislav Victorovich 
                               Phone: +486982351** | stan@sushkov.online | Telegram: @ch1madan
