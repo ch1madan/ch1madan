@@ -1,80 +1,18 @@
+<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/0d0c20b6-9486-4e45-9370-bdaa3045177c" />
+Linux Infrastructure Engineer with 10+ years of hands-on experience managing production server environments, hosting infrastructure, and critical services.
 
+Experienced in Linux administration, infrastructure operations, troubleshooting, automation, networking, virtualization, monitoring, and system performance. Strong background in maintaining reliable production environments and resolving complex infrastructure issues.
 
-Stanislav Victorovich 
-                              Phone: +486982351** | stan@sushkov.online | Telegram: @ch1madan
-                                  Linux Infrastructure/Systems Engineer/Cloud Operations Engineer
+Currently focused on expanding my expertise in AWS, Infrastructure as Code, containers, automation, and modern DevOps practices.
 
-
-Experienced Systems Administrator with 10+ years of hands-on experience managing Linux and Windows server infrastructures. Skilled in deployment, administration, monitoring, troubleshooting, and automation of production environments. Strong background in web hosting, virtualization, networking, backup solutions, and high-availability services. Currently expanding expertise in Cloud Technologies, Infrastructure as Code, Containers, and DevOps practices.
-
-
-
-
-                                      ____________ Core Competencies ____________
-
-Operating Systems:
-Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora, Windows Server;
-Linux From Scratch (LFS);
-
-Infrastructure & Services:
-Nginx,
-Apache HTTP Server,
-DNS,
-FTP,
-SSH,
-Mail Services (SMTP, POP3, IMAP),
-NFS,
-VPN,
-RAID,
-LVM;
-
-AWS:
-EC2.
-S3.
-IAM.
-VPC;
-
-Version Control & CI/CD:
-Git,
-Gitgub Actions;
-
-Virtualization & Containers:
-VMware,
-KVM,
-OpenVZ,
-Oracle VirtualBox,
-Docker,
-Docker-compose;
-
-Monitoring & Observability:
-Zabbix,
-Nagios,
-Cacti,
-Munin,
-MRTG,
-Monit;
-
-Automation & Scripting:
-Ansible,
-Bash,
-Python;
-
-Databases:
-MySQL / MariaDB.
-Basic SQL;
-
-Networking:
-TCP/IP,
-Routing and Switching Fundamentals,
-DNS,
-Firewall Configuration,
-Network Troubleshooting;
-
-Additional Skills:
-Server Migration,
-Backup and Disaster Recovery,
-Infrastructure Monitoring,
-Security Hardening,
-Remote Server Management (IPMI),
-Software Compilation from Source,
-Incident Troubleshooting.
+Core Skills
+Linux: Debian, Ubuntu, CentOS, AlmaLinux, Fedora, LFS
+Infrastructure: Nginx, Apache, DNS, SSH, SMTP/IMAP/POP3, NFS, VPN, RAID, LVM
+Cloud: AWS — EC2, S3, IAM, VPC
+Virtualization: VMware, KVM, OpenVZ, VirtualBox
+Containers: Docker, Docker Compose
+Automation: Ansible, Bash, Python
+Monitoring: Zabbix, Nagios, Cacti, Munin, MRTG, Monit
+Databases: MySQL, MariaDB, basic SQL
+Networking: TCP/IP, routing, switching fundamentals, DNS, firewalls, network troubleshooting
+Operations: server migrations, backups & disaster recovery, security hardening, incident troubleshooting, IPMI, software compilation
