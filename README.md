@@ -1,9 +1,12 @@
-                                                Stanislav Victorovich 
+<img width="1788" height="687" alt="image" src="https://github.com/user-attachments/assets/34b28a5f-4ef3-49a3-a11a-bdecced571da" />
+
+Stanislav Victorovich 
                               Phone: +486982351** | stan@sushkov.online | Telegram: @ch1madan
                                   Linux Infrastructure/Systems Engineer/Cloud Operations Engineer
 
 
 Experienced Systems Administrator with 10+ years of hands-on experience managing Linux and Windows server infrastructures. Skilled in deployment, administration, monitoring, troubleshooting, and automation of production environments. Strong background in web hosting, virtualization, networking, backup solutions, and high-availability services. Currently expanding expertise in Cloud Technologies, Infrastructure as Code, Containers, and DevOps practices.
+
 
 
 
