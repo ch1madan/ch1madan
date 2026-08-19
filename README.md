@@ -1,4 +1,5 @@
-<img width="2056" height="765" alt="image" src="https://github.com/user-attachments/assets/0d0c20b6-9486-4e45-9370-bdaa3045177c" />
+<img width="1769" height="759" alt="image" src="https://github.com/user-attachments/assets/a799ecaf-553b-47ec-a2ae-794d1db41ade" />
+
 Linux Infrastructure Engineer with 10+ years of hands-on experience managing production server environments, hosting infrastructure, and critical services.
 
 Experienced in Linux administration, infrastructure operations, troubleshooting, automation, networking, virtualization, monitoring, and system performance. Strong background in maintaining reliable production environments and resolving complex infrastructure issues.
